@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RationalNumbers.Properties.Resources.resources
+obj\Debug\RationalNumbers.csproj.GenerateResource.Cache
+bin\Debug\RationalNumbers.exe
+bin\Debug\RationalNumbers.pdb
+obj\Debug\RationalNumbers.exe
+obj\Debug\RationalNumbers.pdb
+obj\Debug\RationalNumbers.RationalForm.resources
