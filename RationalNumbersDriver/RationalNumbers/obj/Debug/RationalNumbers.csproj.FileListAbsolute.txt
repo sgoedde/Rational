@@ -44,3 +44,14 @@ E:\School\School\3. 2011 Fall\Programming 2\RationalNumbersOverloadedOps_DriverO
 C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.exe.config
 C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.exe
 C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.pdb
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\bin\Debug\RationalNumbers.exe.config
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNumbers.exe
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNumbers.pdb
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\bin\Debug\RationalNumbers.exe
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\bin\Debug\RationalNumbers.pdb
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\bin\Debug\RationalNS.dll
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\bin\Debug\RationalNS.pdb
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNS.RationalForm.resources
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNS.Properties.Resources.resources
+C:\Users\Stephanie\Desktop\Portfolio\RationalNS2\RationalNumbersDriver\RationalNumbers\obj\Debug\RationalNumbers.csproj.GenerateResource.Cache

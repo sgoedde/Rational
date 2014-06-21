@@ -2,9 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1264CCB-7BC3-422F-B3A9-4B12769DE119}"
-	ProjectSection(SolutionItems) = preProject
-		RationalNumbers.vsd = RationalNumbers.vsd
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "RationalNumbers\RationalNumbers.csproj", "{175DCDC7-4AB4-4C39-AB29-78A5F0FE4B0C}"
 EndProject

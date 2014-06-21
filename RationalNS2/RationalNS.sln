@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNS", "RationalNS\RationalNS.csproj", "{48367785-F194-443D-9A27-81174CC763E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "..\RationalNumbers\RationalNumbers\RationalNumbers.csproj", "{175DCDC7-4AB4-4C39-AB29-78A5F0FE4B0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "..\RationalNumbersDriver\RationalNumbers\RationalNumbers.csproj", "{175DCDC7-4AB4-4C39-AB29-78A5F0FE4B0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
